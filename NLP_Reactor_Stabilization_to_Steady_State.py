@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 25 22:35:40 2025
 
-@author: carol
+@author: spinosaurus777
 """
 
 from gekko import GEKKO
