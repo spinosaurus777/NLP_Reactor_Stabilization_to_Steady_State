@@ -1,7 +1,6 @@
 *
-*CONTROL ÓPTIMO DE PROCESOS
 *12/09/2023
-*TAREA #4
+*author: siponosaurus777
 
 *Conjuntos
 Set
@@ -71,4 +70,5 @@ cal_sum_fobj.. sum_fobj=e=sum(i,fobj(i));
 model CSTR /all/;
 options nlp=ipopt;
 solve CSTR using nlp minimizing sum_fobj
+
 
